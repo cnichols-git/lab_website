@@ -1,0 +1,19 @@
+<?php  include $_SERVER['DOCUMENT_ROOT'] . '/head.php';?>
+<?php  include $_SERVER['DOCUMENT_ROOT'] . '/nav.php';?>
+
+		<div main >
+			<div class="content pad-1">
+				<h1 class="text-center mt-2">Python</h1>
+					<p>Check python version</br>python --version</p>
+					<p>
+						To get into the python3 shell</br>
+						chris@chris-office:~$ python3
+						Python 3.6.5 (default, Apr  1 2018, 05:46:30) 
+						[GCC 7.3.0] on linux
+						Type "help", "copyright", "credits" or "license" for more information
+					</p>
+			</div>	  
+		</div>
+    <div class="footer"><?php include $_SERVER['DOCUMENT_ROOT'] . '/footer.php'?></div>
+  </body>
+</html>
