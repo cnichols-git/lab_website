@@ -8,6 +8,7 @@
       <li class="nav-item"><a class="nav-link" href="/linux/linux.php">Linux</a></li>
       <li class="nav-item"><a class="nav-link" href="/windows/windows.php">Windows</a></li>
       <li class="nav-item"><a class="nav-link" href="/sundry.php">Sundry</a></li>
+      <li class="nav-item"><a class="nav-link" href="/coding/coding.php">Coding</a></li>
     </ul>
   </div>
 </nav>
