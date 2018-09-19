@@ -1,5 +1,5 @@
 .navbar-custom {
-    background-color: #afafaf;
+    background-color: #343a40;
 }
 
 /* change the brand and text color */
@@ -55,13 +55,16 @@ footer:focus {
     background-color: rgba(255,255,255,.5);
 }
 .snippet-subject {
-    border: solid;
+    
+    border-bottom: solid;
     border-width: 1px;
-    border-radius: 3px;
+    padding: 1em;
 }
 .snippet-def {
-    border: solid;
-    border-width: 1px;
-    border-radius: 3px;   
+    background-color: #E8E8E8;
+    padding: 1em;  
 }
-.next {}
+.snippet {
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
+
